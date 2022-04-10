@@ -1,2 +1,2 @@
-# Amma
-This is learning git example
+# suresh-techs
+SureshTechs Websites
